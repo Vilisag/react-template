@@ -1,0 +1,9 @@
+@import 'variable';
+
+body {
+    font: $fonts;
+    background-color: $colorLight;
+    h1, h2 {
+        color: $colorDark;
+    }
+}
